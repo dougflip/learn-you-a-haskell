@@ -1,0 +1,8 @@
+*.hi
+*.o
+ch9/HelloWorld
+ch9/YourName
+ch9/YourBigName
+ch9/ReverseWords
+ch9/GetChar
+ch9/Sequence
